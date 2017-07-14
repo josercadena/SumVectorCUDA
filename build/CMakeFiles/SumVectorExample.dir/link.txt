@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/SumVectorExample.dir/./SumVectorExample_generated_main.cu.o  -o SumVectorExample -rdynamic /usr/local/cuda/lib64/libcudart.so /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 
